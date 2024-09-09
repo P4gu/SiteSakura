@@ -30,21 +30,29 @@ let dados = [
     {
       nome: "The Dark",
       descricao:
-        "Representa as trevas, o desconhecido e o poder. Concede habilidades de manipulação das sombras e absorção de energia.",
+        "A Carta Clow The Dark é o oposto direto de The Light. Enquanto The Light representa a esperança, a pureza e a luz, The Dark simboliza o mistério, a escuridão e a incerteza.",
       poderes: [
-        "Manipulação das Sombras",
-        "Absorção de Energia",
-        "Criação de Ilusões",
+        "Criação de Escuridão: A carta tem o poder de criar trevas impenetráveis, podendo ocultar objetos e pessoas.",
+        "Absorção de Luz: The Dark pode absorver a luz, causando escuridão e criando um ambiente sombrio.",
+        "Ilusões: A carta pode criar ilusões e distorcer a realidade, confundindo seus oponentes.",
+        "Controle das Sombras: The Dark pode manipular as sombras, dando-lhes forma e movimento."
       ],
-      simbolismo: "Mistério, Poder, Desconhecido",
+      simbolismo: ["Mistério: A escuridão está associada ao mistério, ao desconhecido e ao medo.",
+      "Negatividade: The Dark representa as emoções negativas, como a raiva, a tristeza e o ódio.",
+      "Força Oculta: A carta pode simbolizar um poder oculto e desconhecido, uma força da natureza que pode ser tanto destrutiva quanto criativa."],
       tags:"escuridão, poder, mistério, sombra, absorção, ilusão"
     },
     {
       nome: "The Firey",
       descricao:
-        "Representa o fogo, a paixão e a energia. Concede poderes de manipulação do fogo e criação de explosões.",
-      poderes: ["Criação de Fogo", "Explosões", "Iluminação"],
-      simbolismo: "Paixão, Energia, Transformação",
+        "A Carta Clow The Firey representa o poder bruto e intenso do fogo. É uma carta de ataque poderosa, capaz de causar grandes destruições se não for controlada.",
+      poderes: ["Criação de Fogo: The Firey pode criar chamas de diferentes intensidades, desde pequenas faíscas até grandes fogueiras.",
+         "EManipulação do Fogo: A carta permite controlar o fogo com precisão, moldando-o em diversas formas e direcionando-o para onde quiser.",
+          "Aquecimento: The Firey pode aumentar a temperatura de qualquer objeto ou área, causando queimaduras severas",
+          "Explosão: A carta pode gerar explosões poderosas, causando grandes danos."],
+      simbolismo: ["Paixão: O fogo é frequentemente associado à paixão, à energia e à força.",
+         "Destruição: O fogo também representa a destruição e a transformação.", 
+         "Purificação: Em algumas culturas, o fogo é visto como um elemento purificador, capaz de queimar tudo o que é impuro."],
       tags:"fogo, paixão, energia, calor, explosão, destruição"
     },
     {
